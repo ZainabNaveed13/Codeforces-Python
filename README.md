@@ -13,4 +13,7 @@ This repository is a collection of my accepted solutions, categorized by problem
 - **Readable Code**: Each solution is clean, with clear variable names and comments explaining key parts.
 
 ---
-
+## 🚀 How to Use:
+1. **Clone the Repository**:
+   ```bash
+   git clone https://github.com/your-username/codeforces-solutions.git
