@@ -1,0 +1,19 @@
+n=int(input())
+bills=0
+while n!=0:
+    if n>=100:
+        n-=100
+        bills+=1
+    elif n<100 and n>=20:
+        n-=20
+        bills+=1
+    elif n<20 and n>=10:
+        n-=10
+        bills+=1
+    elif n<10 and n>=5:
+        n-=5
+        bills+=1
+    elif n<5 and n>=1:
+        n-=1
+        bills+=1
+print(bills)
